@@ -1,0 +1,44 @@
+.bannerTop {
+   padding-bottom: 0px;
+}
+.bannerTop .trioNav{
+   display: flex; 
+   background: rgb(255, 255, 255);
+   flex-direction: row;
+   height: 80%;
+   height: 60px; 
+}
+
+.bannerTop .logoNav{
+    display: flex;
+    background: white;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 100%;
+}
+
+.bannerTop .menuNav{
+    display: flex;
+    background: white;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 100%;
+
+}
+.bannerTop .userNav{
+    display: flex;
+    background: white;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 100%;
+}
+
+.bannerTop .barNav{
+display: flex;
+background: red;
+
+}
+     
